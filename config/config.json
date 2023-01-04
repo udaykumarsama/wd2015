@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "postgres",
-    "password": "abhi",
+    "password": "uday",
     "database": "todo_db_dev",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "logging": false
   },
-  "test": {
+  "test": { 
     "username": "postgres",
-    "password": "abhi",
+    "password": "uday",
     "database": "todo_db_test",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "logging": false
   },
-  "production": {
+  "production": { 
     "username": "postgres",
-    "password": "abhi",
+    "password": "uday",
     "database": "todo_db_prod",
     "host": "127.0.0.1",
     "dialect": "postgres"
