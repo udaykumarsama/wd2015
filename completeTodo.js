@@ -7,6 +7,7 @@ const markAsComplete = async (id) => {
   } catch (error) {
     console.error(error);
   }
+  
 };
 
 (async () => {
